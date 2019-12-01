@@ -8,3 +8,13 @@ Schneeschmelze als Visual Effect
   https://www.youtube.com/watch?v=BBpPFDrL2n0
   
   https://www.youtube.com/watch?v=pApFztL-lsI
+  
+#Ice-Melting Simulation:
+  
+  https://www.youtube.com/watch?v=Cpd3ExAcJdI
+  
+  https://www.youtube.com/watch?v=K7hBd012CyU
+  
+#Houdini Tutorial (Melting objects):
+  
+  https://www.youtube.com/watch?v=lnaNMykL1YI
