@@ -19,3 +19,7 @@
 ## Houdini Tutorial (Melting objects)
   
   https://www.youtube.com/watch?v=lnaNMykL1YI
+
+## Vellum in Houdini
+
+  https://vimeo.com/search?q=vellum+houdini
